@@ -1,1 +1,1 @@
-# Encrypted-Messaging-App
+# Encrypted Messaging App
