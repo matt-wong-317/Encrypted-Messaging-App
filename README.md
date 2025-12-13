@@ -1,5 +1,5 @@
 # Encrypted Messaging App
 
-Members: Kseniya Kolokolkina, Kabishan Sutharman, Matthew Wong, Jason Guan, Nolan Tsang
+Created by: Kseniya Kolokolkina, Kabishan Sutharman, Matthew Wong, Jason Guan, Nolan Tsang
 
-Messaging app created using Dart.
+Mobile messaging app created using Dart.
